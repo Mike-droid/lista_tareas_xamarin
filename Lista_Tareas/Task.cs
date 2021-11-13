@@ -1,7 +1,5 @@
 ﻿using SQLite;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Lista_Tareas
 {
@@ -14,7 +12,7 @@ namespace Lista_Tareas
 
         public override string ToString()
         {
-            return $"{this.task_name} - Fecha límite: {this.task_date}";
+            return $"{task_name} - Fecha límite {task_date}";
         }
     }
 }

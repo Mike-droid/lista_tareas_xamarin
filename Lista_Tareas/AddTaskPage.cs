@@ -1,10 +1,6 @@
 ﻿using System;
 using System.IO;
 using SQLite;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
 using Xamarin.Forms;
 
 namespace Lista_Tareas
@@ -15,7 +11,7 @@ namespace Lista_Tareas
         private DatePicker _date_task_entry;
         private Button _saveButton;
 
-        string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "myTasksDB.db3");
+        string dbPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Personal), "myTasksDB.db3");
         public AddTaskPage()
         {
             this.Title = "Crea una nueva tarea";

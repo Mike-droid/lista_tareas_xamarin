@@ -1,10 +1,6 @@
 ﻿using SQLite;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-
 using Xamarin.Forms;
 
 namespace Lista_Tareas
@@ -17,7 +13,7 @@ namespace Lista_Tareas
 
         Task task = new Task();
 
-        string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "myTasksDB.db3");
+        string dbPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Personal), "myTasksDB.db3");
 
         public DeleteTaskPage()
         {

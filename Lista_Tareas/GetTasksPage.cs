@@ -1,10 +1,6 @@
 ﻿using SQLite;
-using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-
+using System;
 using Xamarin.Forms;
 
 namespace Lista_Tareas
@@ -12,7 +8,7 @@ namespace Lista_Tareas
     public class GetTasksPage : ContentPage
     {
         private ListView _listView;
-        string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "myTasksDB.db3");
+        string dbPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Personal), "myTasksDB.db3");
         public GetTasksPage()
         {
             this.Title = "Lista de tareas";
