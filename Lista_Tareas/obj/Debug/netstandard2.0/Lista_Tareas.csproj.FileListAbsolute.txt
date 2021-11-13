@@ -1,0 +1,15 @@
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\bin\Debug\netstandard2.0\Lista_Tareas.deps.json
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\bin\Debug\netstandard2.0\Lista_Tareas.dll
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\bin\Debug\netstandard2.0\ref\Lista_Tareas.dll
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\bin\Debug\netstandard2.0\Lista_Tareas.pdb
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\Lista_Tareas.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\Lista_Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\Lista_Tareas.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\Lista_Tareas.AssemblyInfo.cs
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\Lista_Tareas.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\Lista_Tareas.dll
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\ref\Lista_Tareas.dll
+C:\Users\migue\source\repos\Lista_Tareas\Lista_Tareas\obj\Debug\netstandard2.0\Lista_Tareas.pdb
