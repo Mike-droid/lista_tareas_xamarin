@@ -12,7 +12,7 @@ namespace Lista_Tareas
 
         public override string ToString()
         {
-            return $"{task_name} - Fecha límite {task_date}";
+            return $"{task_name} - Fecha límite {task_date.Date:dd/MM/yyyy}";
         }
     }
 }
